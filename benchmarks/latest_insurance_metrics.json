@@ -1,5 +1,5 @@
 {
-  "benchmark_date": "2026-11-06",
+  "benchmark_date": "2026-11-07",
   "status": "OPTIMAL",
   "actuarial_model_accuracy": 0.954,
   "decision_latency_ms": 112.5
